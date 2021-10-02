@@ -1,6 +1,7 @@
-# MyFitTrack (UOM_WebAppsDev_FinalProject)
- Final project of Web and Mobile Application Development course (MSc in Computer Science and Technology, Department of Applied Informatics, University of Macedonia)
+# MyFitTrack - Progressive Web Application
+Final project of Web and Mobile Application Development course (MSc in Computer Science and Technology, Department of Applied Informatics, University of Macedonia)
 
-The Web app is live at this link: alexpheeuom.github.io
+This PWA is live at this link: alexpheeuom.github.io
 
-![ScreenShot](logo.png)
+![ScreenShot](mockup_final.jpg)
+![ScreenShot](logo225.png)
