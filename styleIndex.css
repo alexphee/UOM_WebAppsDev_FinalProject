@@ -1,0 +1,21 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin:auto;
+    
+}
+body{
+background-color: rgb(221, 221, 221);
+}
+h2,h4{
+    color:rgb(108, 2, 207);
+}
+table,tr,td{
+    text-align: center;
+
+}
+
+img{
+width:400px;
+
+}
