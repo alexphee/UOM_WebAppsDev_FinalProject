@@ -1,0 +1,19 @@
+{   "name": "myFitTrack Workout Tracking App",
+    "short_name": "myFitTrack",
+    "icons": [
+      {
+        "src": "/images/logo225.png",
+        "type": "image/png",
+        "sizes": "225x225"
+      },
+      {
+        "src": "/images/logo512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/index.html",
+    "background_color": "white",
+    "display": "standalone",
+    "description": "Track your daily workout routine !"
+  }
