@@ -3,5 +3,5 @@ Final project of Web and Mobile Application Development course (MSc in Computer 
 
 This PWA is live at this link: alexpheeuom.github.io
 
-![ScreenShot](mockup_final.jpg)
-![ScreenShot](logo225.png)
+![ScreenShot](images/mockup_final.jpg)
+![ScreenShot](images/logo225.png)
